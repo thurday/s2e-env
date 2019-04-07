@@ -81,6 +81,7 @@ dependencies:
         - gcc-multilib
         - g++-multilib
         - libpixman-1-dev
+        - rapidjson-dev
 
         # s2e-env dependencies
         - lcov
